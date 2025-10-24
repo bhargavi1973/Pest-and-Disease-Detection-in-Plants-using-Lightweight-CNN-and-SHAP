@@ -7,7 +7,7 @@ It aligns with global goals of Responsible AI and sustainable innovation — mak
 •	Optimized model performance for efficiency and interpretability, achieving high accuracy while reducing computational complexity suitable for real-world deployment in resource-limited environments.
 •	Executed data preprocessing, augmentation, and evaluation pipelines using TensorFlow, Keras, scikit-learn, and OpenCV, leveraging cloud-based development on Google Colab and datasets accessed via Kaggle API.
 •	Achieved 82.64% accuracy with an optimized Lightweight CNN, reducing model complexity by 40%, integrating SHAP-based explainability for transparent AI, and demonstrating deployability for sustainable, real-time agricultural monitoring aligned with Responsible AI principles.
-•	Research outcomes contribute to explainable deep learning frameworks and AI-driven solutions for sustainable innovation in AgriTech. , write it in 3 ATS friendly lines for resume 
+•	Research outcomes contribute to explainable deep learning frameworks and AI-driven solutions for sustainable innovation in AgriTech.  
 
 📘 Overview
 This project focuses on developing an AI-powered solution for automatic pest and plant disease detection using deep learning and explainable AI techniques.
