@@ -2,6 +2,13 @@
 This work contributes to the intersection of AI, agriculture, and sustainability by combining deep learning with explainability frameworks.
 It aligns with global goals of Responsible AI and sustainable innovation — making advanced models interpretable for real-world decision-making.
 
+•	Conducted applied research in AI for Sustainable Agriculture, developing a Lightweight Convolutional Neural Network (CNN) for automated pest and plant disease detection from leaf images.
+•	Integrated Explainable AI (XAI) using SHAP (SHapley Additive Explanations) to visualize feature contributions, ensuring model transparency and trustworthiness aligned with Responsible AI principles.
+•	Optimized model performance for efficiency and interpretability, achieving high accuracy while reducing computational complexity suitable for real-world deployment in resource-limited environments.
+•	Executed data preprocessing, augmentation, and evaluation pipelines using TensorFlow, Keras, scikit-learn, and OpenCV, leveraging cloud-based development on Google Colab and datasets accessed via Kaggle API.
+•	Achieved 82.64% accuracy with an optimized Lightweight CNN, reducing model complexity by 40%, integrating SHAP-based explainability for transparent AI, and demonstrating deployability for sustainable, real-time agricultural monitoring aligned with Responsible AI principles.
+•	Research outcomes contribute to explainable deep learning frameworks and AI-driven solutions for sustainable innovation in AgriTech. , write it in 3 ATS friendly lines for resume 
+
 📘 Overview
 This project focuses on developing an AI-powered solution for automatic pest and plant disease detection using deep learning and explainable AI techniques.
 The goal is to assist farmers, agronomists, and researchers by providing a lightweight yet accurate CNN model capable of diagnosing plant diseases from leaf images, with integrated interpretability using SHAP (SHapley Additive Explanations) to ensure model transparency and trust.
