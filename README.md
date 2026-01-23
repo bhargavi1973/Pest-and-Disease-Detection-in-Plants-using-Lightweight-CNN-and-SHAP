@@ -13,6 +13,7 @@ It aligns with global goals of Responsible AI and sustainable innovation — mak
 📘 Overview
 
 This project focuses on developing an AI-powered solution for automatic pest and plant disease detection using deep learning and explainable AI techniques.
+
 The goal is to assist farmers, agronomists, and researchers by providing a lightweight yet accurate CNN model capable of diagnosing plant diseases from leaf images, with integrated interpretability using SHAP (SHapley Additive Explanations) to ensure model transparency and trust.
 
 🎯 Objectives
@@ -48,21 +49,30 @@ Tested model on Google Colab environment and prepared for web deployment using S
 🧰 Tech Stack
 
 1.Programming Language: Python
+
 2.Deep Learning Frameworks: TensorFlow, Keras
+
 3.Libraries & Tools: scikit-learn, OpenCV, Matplotlib, NumPy, Pandas, SHAP(Explainability)
+
 4.Platform: Google Colab
+
 5.Dataset Source: Kaggle API(Plant-Village Dataset)
 
 📊 Results & Outcomes
 
 1.Achieved ~82.64 classification accuracy on the test dataset with optimized CNN architecture.
+
 2.Reduced model complexity by 40% compared to standard CNNs while maintaining performance.
+
 3.Integrated SHAP visual explanations, improving interpretability and enabling transparent AI decisions.
 
 
 📈 Future Scope
 
 1.Extend the system to multi-class disease detection and real-time field deployment.
+
 2.Integrate with IoT sensors or mobile apps for practical use by farmers.
+
 3.Explore hybrid XAI techniques (e.g., Grad-CAM, LIME) for comparative analysis.
+
 4.Optimize model using quantization and pruning for edge deployment.
